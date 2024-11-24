@@ -8,7 +8,7 @@ import { Message, AudioFeed } from './types';
 const mockFeeds: AudioFeed[] = [
   {
     id: '1',
-    name: 'Alpha Squad',
+    name: 'Alpha Squad 77',
     frequency: '126.5 MHz',
     active: true,
     strength: 85,
